@@ -39,11 +39,6 @@
 | [**so_long**](https://github.com/karai-X/so_long) | MiniLibXを利用した2Dゲームを実装 |
 | [**cub3d**](https://github.com/karai-X/cub3D) | レイキャスティングを利用して2Dマップから簡易3D空間を描画 |
 
-### C++
-
-| Project | 概要 |
-|---|---|
-| [**C++ Modules**](https://github.com/karai-X/CPP) | C++の基礎から、クラス、継承、ポリモーフィズム、例外処理、テンプレート、STLなどを学習・実装 |
 
 ### ネットワーク・Web
 
