@@ -12,6 +12,14 @@
 
 ---
 
+## 🤖 AI / ロボット制御（VLA）
+
+| Project | 概要 |
+|---|---|
+| [**vla_competition**](https://github.com/karai-X/vla_competition) | VLAモデル OpenVLA-OFT（7B）をファインチューニングし、背景・照明・視点・物体配置などの摂動が加わった LIBERO のロボット操作タスクを、周りの物体に衝突せずに解けるようにした取り組み（[解説ページ](https://karai-x.github.io/vla_competition/)） |
+
+---
+
 ## 🏫 42 Tokyo
 
 42 Tokyoで取り組んだ課題です。
