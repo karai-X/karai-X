@@ -8,7 +8,7 @@
 
 | Project | 概要 |
 |---|---|
-| [**RAG_Competition**](https://github.com/karai-X/RAG_Competition) | RAG（Retrieval-Augmented Generation）を用いたコンペティションへの取り組み |
+| [**RAG_Competition**](https://github.com/karai-X/RAG_Competition) | RAG（Retrieval-Augmented Generation）を用いたコンペティションへの取り組み（[解説ページ](https://karai-x.github.io/RAG_Competition/)） |
 
 ---
 
